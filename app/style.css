@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+#timeline {
+    margin-bottom: 20px;
+}
+.period {
+    margin: 5px 0;
+}
+#flashcard {
+    margin-top: 20px;
+    border: 1px solid #ccc;
+    padding: 20px;
+    width: 300px;
+}
+#question {
+    font-weight: bold;
+}
+.option {
+    margin: 5px 0;
+}
+button {
+    margin-top: 10px;
+}
